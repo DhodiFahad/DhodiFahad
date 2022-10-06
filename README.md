@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Testing, Frontend developement and mobile app developement.
 - 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on software testing and blockchain developement.
-- 📫 How to reach me 
+- 📫 How to reach me: Twitter @DhodiFahad or dhodifahad@gmail.com
 
 <!---
 DhodiFahad/DhodiFahad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
